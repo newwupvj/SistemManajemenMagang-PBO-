@@ -1,1 +1,9 @@
-*.zip 
+*.zip
+.idea/
+target/
+
+# IntelliJ
+*.iml
+
+# Java
+*.class
